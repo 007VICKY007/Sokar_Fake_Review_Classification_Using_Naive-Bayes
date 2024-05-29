@@ -27,12 +27,6 @@ The dataset used for training and testing the classifier is obtained from [inser
 The classification report, ROC-AUC score, and confusion matrix are provided to evaluate the performance of the trained model. Additionally, the code identifies the most common words for fake and genuine reviews.
 
 ### Contributors:
-- [Your Name or Username]
-- [Other Contributors, if any]
-
-### License:
-This project is licensed under the [license type]. See the LICENSE file for details.
-
----
+- [Vignesh Pandiya]
 
 Feel free to customize the content based on your specific dataset, objectives, and preferences. Let me know if you need further assistance or clarification!
